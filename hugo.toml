@@ -2,3 +2,7 @@ baseURL = 'https://akshatjha.xyz/'
 languageCode = 'en-us'
 title = 'Akshat Jha'
 theme = 'paper'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
