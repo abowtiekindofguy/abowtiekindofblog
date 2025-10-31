@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on abowtiekindofguy</title>
-    <link>http://localhost:61381/</link>
+    <link>http://localhost:62396/</link>
     <description>Recent content in Home on abowtiekindofguy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Oct 2025 12:27:25 +0530</lastBuildDate>
-    <atom:link href="http://localhost:61381/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:62396/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:61381/posts/my-first-post/</link>
+      <link>http://localhost:62396/posts/my-first-post/</link>
       <pubDate>Fri, 31 Oct 2025 12:27:25 +0530</pubDate>
-      <guid>http://localhost:61381/posts/my-first-post/</guid>
+      <guid>http://localhost:62396/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
   </channel>
