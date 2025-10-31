@@ -1,8 +1,35 @@
 baseURL = 'https://akshatjha.xyz/'
 languageCode = 'en-us'
-title = 'Akshat Jha'
+title = 'abowtiekindofguy'
 theme = 'paper'
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params.profile]
+  name = "Akshat Jha"
+  bio = "CSE @ IIT Delhi"
+  image = "images/avatar.jpg"  # put your image in static/images/
+  twitter = "akshatjha"
+  github = "abowtiekindofguy"
+  linkedin = "akshatjha"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 3

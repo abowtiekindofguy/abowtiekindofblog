@@ -1,0 +1,35 @@
+{{ define "main" }}
+<main class="content">
+  <section class="intro" style="margin-bottom: 3rem;">
+    <!-- <h1>{{ .Site.Title }}</h1> -->
+    {{ with .Site.Params.homeSubtitle }}
+      <p class="subtitle" style="font-size: 1.25rem; color: var(--text-muted);">
+        {{ . }}
+      </p>
+    {{ end }}
+
+    {{ with .Content }}
+      <div class="home-content" style="margin-top: 1.5rem;">
+        {{ . | safeHTML }}
+      </div>
+    {{ end }}
+  </section>
+
+  <!-- <section class="recent-posts">
+    <h2>Recent Posts</h2>
+    <ul style="list-style: none; padding-left: 0;">
+      {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+        <li style="margin: 1rem 0;">
+          <a href="{{ .RelPermalink }}" style="font-weight: 600; text-decoration: none;">
+            {{ .Title }}
+          </a>
+          <br>
+          <small style="color: var(--text-muted);">
+            {{ .Date.Format "Jan 2, 2006" }} • {{ .ReadingTime }} min read
+          </small>
+        </li>
+      {{ end }}
+    </ul>
+  </section> -->
+</main>
+{{ end }}
