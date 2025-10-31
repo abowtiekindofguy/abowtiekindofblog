@@ -1,0 +1,4 @@
+baseURL = 'https://akshatjha.xyz/'
+languageCode = 'en-us'
+title = 'Akshat Jha'
+theme = 'paper'
