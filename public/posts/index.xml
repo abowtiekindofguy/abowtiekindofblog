@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on abowtiekindofblog</title>
-    <link>http://localhost:49445/posts/</link>
-    <description>Recent content in Posts on abowtiekindofblog</description>
+    <title>Posts on abowtiekindofguy</title>
+    <link>http://localhost:56920/posts/</link>
+    <description>Recent content in Posts on abowtiekindofguy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Oct 2025 16:46:01 +0530</lastBuildDate>
-    <atom:link href="http://localhost:49445/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56920/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:49445/posts/hello-world/</link>
+      <link>http://localhost:56920/posts/hello-world/</link>
       <pubDate>Fri, 31 Oct 2025 16:46:01 +0530</pubDate>
-      <guid>http://localhost:49445/posts/hello-world/</guid>
+      <guid>http://localhost:56920/posts/hello-world/</guid>
       <description>&lt;p&gt;Just checking if everything is working.&lt;/p&gt;</description>
     </item>
   </channel>

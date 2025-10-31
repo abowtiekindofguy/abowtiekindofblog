@@ -1,10 +1,41 @@
-baseURL = 'https://blog.akshatjha.xyz/'
+baseURL = 'https://www.akshatjha.xyz/'
 languageCode = 'en-us'
-title = 'abowtiekindofblog'
+title = 'abowtiekindofguy'
 theme = 'paper'
 canonifyurls = true
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params]
+  name = 'Akshat Jha'
+  bio = 'CSE @ IIT Delhi'
+  avatar = 'https://media.licdn.com/dms/image/v2/D5603AQHmmrZUVuaONA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719221858003?e=1763596800&v=beta&t=Kezxs1JEgSVIPm9C-0rmQ87t3UKvj4xsrCTwvSUMXjs'  # Add your email for Gravatar or URL for custom image
+  # Social links (uncomment and add your usernames)
+  twitter = 'abowtykindofguy'
+  github = 'abowtiekindofguy'
+  # instagram = 'yourusername'
+  linkedin = 'akshatjha'
+  # mastodon = 'yourinstance.com/@yourusername'
+  # threads = 'yourusername'
+  # bluesky = 'yourusername'
+  # rss = true  # Shows RSS feed link
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 3
 
