@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://akshatjha.xyz/</loc>
+    <loc>http://localhost:61381/</loc>
     <lastmod>2025-10-31T15:22:30+05:30</lastmod>
   </url><url>
-    <loc>https://akshatjha.xyz/projects/</loc>
+    <loc>http://localhost:61381/projects/</loc>
     <lastmod>2025-10-31T15:22:30+05:30</lastmod>
   </url><url>
-    <loc>https://akshatjha.xyz/posts/my-first-post/</loc>
+    <loc>http://localhost:61381/posts/my-first-post/</loc>
     <lastmod>2025-10-31T12:27:25+05:30</lastmod>
   </url><url>
-    <loc>https://akshatjha.xyz/posts/</loc>
+    <loc>http://localhost:61381/posts/</loc>
     <lastmod>2025-10-31T12:27:25+05:30</lastmod>
   </url><url>
-    <loc>https://akshatjha.xyz/categories/</loc>
+    <loc>http://localhost:61381/categories/</loc>
   </url><url>
-    <loc>https://akshatjha.xyz/tags/</loc>
+    <loc>http://localhost:61381/tags/</loc>
   </url>
 </urlset>
