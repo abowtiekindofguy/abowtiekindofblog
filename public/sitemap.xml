@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.akshatjha.xyz/posts/hello-world/</loc>
+    <loc>http://localhost:57136/posts/hello-world/</loc>
     <lastmod>2025-10-31T16:46:01+05:30</lastmod>
   </url><url>
-    <loc>https://www.akshatjha.xyz/</loc>
+    <loc>http://localhost:57136/</loc>
     <lastmod>2025-10-31T16:46:01+05:30</lastmod>
   </url><url>
-    <loc>https://www.akshatjha.xyz/posts/</loc>
+    <loc>http://localhost:57136/posts/</loc>
     <lastmod>2025-10-31T16:46:01+05:30</lastmod>
   </url><url>
-    <loc>https://www.akshatjha.xyz/projects/project-1/</loc>
+    <loc>http://localhost:57136/projects/project-1/</loc>
     <lastmod>2025-01-15T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.akshatjha.xyz/projects/</loc>
+    <loc>http://localhost:57136/projects/</loc>
     <lastmod>2025-01-15T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.akshatjha.xyz/categories/</loc>
+    <loc>http://localhost:57136/categories/</loc>
   </url><url>
-    <loc>https://www.akshatjha.xyz/tags/</loc>
+    <loc>http://localhost:57136/tags/</loc>
   </url>
 </urlset>

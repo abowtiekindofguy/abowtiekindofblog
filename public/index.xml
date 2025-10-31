@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on abowtiekindofguy</title>
-    <link>https://www.akshatjha.xyz/</link>
+    <link>http://localhost:57136/</link>
     <description>Recent content in Home on abowtiekindofguy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Oct 2025 16:46:01 +0530</lastBuildDate>
-    <atom:link href="https://www.akshatjha.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:57136/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://www.akshatjha.xyz/posts/hello-world/</link>
+      <link>http://localhost:57136/posts/hello-world/</link>
       <pubDate>Fri, 31 Oct 2025 16:46:01 +0530</pubDate>
-      <guid>https://www.akshatjha.xyz/posts/hello-world/</guid>
+      <guid>http://localhost:57136/posts/hello-world/</guid>
       <description>&lt;p&gt;Just checking if everything is working.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project Alpha</title>
-      <link>https://www.akshatjha.xyz/projects/project-1/</link>
+      <link>http://localhost:57136/projects/project-1/</link>
       <pubDate>Wed, 15 Jan 2025 10:00:00 +0530</pubDate>
-      <guid>https://www.akshatjha.xyz/projects/project-1/</guid>
+      <guid>http://localhost:57136/projects/project-1/</guid>
       <description>&lt;p&gt;This is a sample project showcasing my work on web development and design. Project Alpha demonstrates modern web technologies and clean UI/UX principles.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Technologies used:&lt;/strong&gt; React, TypeScript, TailwindCSS&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Features:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Responsive design&lt;/li&gt;&#xA;&lt;li&gt;Modern UI components&lt;/li&gt;&#xA;&lt;li&gt;Performance optimized&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

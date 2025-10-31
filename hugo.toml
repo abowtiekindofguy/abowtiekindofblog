@@ -1,8 +1,8 @@
-baseURL = 'https://www.akshatjha.xyz/'
+baseurl = 'https://www.akshatjha.xyz/'
 languageCode = 'en-us'
 title = 'abowtiekindofguy'
 theme = 'paper'
-canonifyurls = true
+canonifyURLs = true
 
 [caches]
   [caches.images]
